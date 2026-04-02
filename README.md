@@ -58,7 +58,7 @@ Handson_L10/
 │   └── fare_trend_model_v2/  # Model used in Task 5
 │
 └── README.md
-▶️ Running the Project
+Running the Project
 1. Setup
 Bash
 python3 -m venv venv
@@ -69,14 +69,19 @@ You’ll need two terminals:
 Terminal 1:
 Bash
 python3 task4.py
+ 
+<img width="975" height="567" alt="image" src="https://github.com/user-attachments/assets/a63982a5-5cfe-4774-bef6-e8ff88e22c17" />
+
 Terminal 2:
 Bash
 python3 data_generator.py
-3. Run Window-Based Prediction (Task 5)
+4. Run Window-Based Prediction (Task 5)
 Again, use two terminals:
 Terminal 1:
 Bash
 python3 task5.py
+<img width="975" height="181" alt="image" src="https://github.com/user-attachments/assets/deb956f6-229b-4bce-b05e-5120530d4b8d" />
+
 Terminal 2:
 Bash
 python3 data_generator.py
